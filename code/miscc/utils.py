@@ -32,7 +32,8 @@ def drawCaption(convas, captions, ixtoword, vis_size, off1=2, off2=2):
     img_txt = Image.fromarray(convas)
     # get a font
     # fnt = None  # ImageFont.truetype('Pillow/Tests/fonts/FreeMono.ttf', 50)
-    fnt = ImageFont.truetype('Pillow/Tests/fonts/FreeMono.ttf', 50)
+    #fnt = ImageFont.truetype('Pillow/Tests/fonts/FreeMono.ttf', 50)
+    fnt = ImageFont.truetype('/content/AttnGAN/eval/FreeMono.ttf', 50)
     # get a drawing context
     d = ImageDraw.Draw(img_txt)
     sentence_list = []
@@ -126,10 +127,13 @@ def build_super_images(real_imgs, captions, ixtoword,
         minVglobal, maxVglobal = 1, 0
         for j in range(num_attn):
             one_map = attn[j]
+            #print('(i/num {}/{}) j/num_attn : {}/{}, one_map : {}'.format(i, num, j, num_attn, one_map.shape))
+            
             if (vis_size // att_sze) > 1:
-                one_map = \
-                    skimage.transform.pyramid_expand(one_map, sigma=20,
-                                                     upscale=vis_size // att_sze)
+                #one_map = skimage.transform.pyramid_expand(one_map, sigma=20, upscale=vis_size // att_sze)
+                one_map = skimage.transform.pyramid_expand(one_map, sigma=20, upscale=vis_size // att_sze, multichannel=True)
+            #print('after pyramid_expand(), one_map: {}'.format(one_map.shape))
+
             row_beforeNorm.append(one_map)
             minV = one_map.min()
             maxV = one_map.max()
@@ -137,12 +141,18 @@ def build_super_images(real_imgs, captions, ixtoword,
                 minVglobal = minV
             if maxVglobal < maxV:
                 maxVglobal = maxV
+            
         for j in range(seq_len + 1):
             if j < num_attn:
                 one_map = row_beforeNorm[j]
                 one_map = (one_map - minVglobal) / (maxVglobal - minVglobal)
                 one_map *= 255
-                #
+                # debug
+                #print('j : {}, seq_len : {}, img: {}, one_map: {}, vis_size : {}'.format(j, seq_len, img.shape, one_map.shape, vis_size))
+                #one_map = one_map[:,:,:3]
+                #print(np.uint8(img))
+                #print(np.uint8(one_map))
+
                 PIL_im = Image.fromarray(np.uint8(img))
                 PIL_att = Image.fromarray(np.uint8(one_map))
                 merged = \
@@ -226,9 +236,8 @@ def build_super_images2(real_imgs, captions, cap_lens, ixtoword,
             mask = one_map > thresh
             one_map = one_map * mask
             if (vis_size // att_sze) > 1:
-                one_map = \
-                    skimage.transform.pyramid_expand(one_map, sigma=20,
-                                                     upscale=vis_size // att_sze)
+                #one_map =  skimage.transform.pyramid_expand(one_map, sigma=20, upscale=vis_size // att_sze)
+                one_map = skimage.transform.pyramid_expand(one_map, sigma=20, upscale=vis_size // att_sze, multichannel=True)
             minV = one_map.min()
             maxV = one_map.max()
             one_map = (one_map - minV) / (maxV - minV)

@@ -133,7 +133,8 @@ class TextDataset(data.Dataset):
         #
         filename_bbox = {img_file[:-4]: [] for img_file in filenames}
         numImgs = len(filenames)
-        for i in xrange(0, numImgs):
+        #for i in xrange(0, numImgs):
+        for i in range(0, numImgs):
             # bbox = [x-left, y-top, width, height]
             bbox = df_bounding_boxes.iloc[i][1:].tolist()
 
@@ -147,7 +148,8 @@ class TextDataset(data.Dataset):
         for i in range(len(filenames)):
             cap_path = '%s/text/%s.txt' % (data_dir, filenames[i])
             with open(cap_path, "r") as f:
-                captions = f.read().decode('utf8').split('\n')
+                #captions = f.read().decode('utf8').split('\n')
+                captions = f.read().split('\n')
                 cnt = 0
                 for cap in captions:
                     if len(cap) == 0:
@@ -251,7 +253,7 @@ class TextDataset(data.Dataset):
     def load_class_id(self, data_dir, total_num):
         if os.path.isfile(data_dir + '/class_info.pickle'):
             with open(data_dir + '/class_info.pickle', 'rb') as f:
-                class_id = pickle.load(f)
+                class_id = pickle.load(f, encoding="latin1")
         else:
             class_id = np.arange(total_num)
         return class_id
@@ -260,7 +262,7 @@ class TextDataset(data.Dataset):
         filepath = '%s/%s/filenames.pickle' % (data_dir, split)
         if os.path.isfile(filepath):
             with open(filepath, 'rb') as f:
-                filenames = pickle.load(f)
+                filenames = pickle.load(f, encoding="latin1")
             print('Load filenames from: %s (%d)' % (filepath, len(filenames)))
         else:
             filenames = []
