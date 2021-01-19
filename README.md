@@ -55,7 +55,7 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 - Input your own sentence in "./data/birds/example_captions.txt" if you wannt to generate images from customized sentences. 
 
 
-Examples for birds 
+Examples for birds (Black_Footed_Albatross_0001_796111)
 
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_g2.png)
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_1_g2.png)
