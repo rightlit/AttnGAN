@@ -58,9 +58,8 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 
  bird example              |  caption
 :-------------------------:|:-------------------------:
-![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_g2.png)  |  Black_Footed_Albatross_0001_796111
-![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_1_g2.png)  |  Black_Footed_Albatross_0001_796111
-![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_2_g2.png)  |  Black_Footed_Albatross_0001_796111
+![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_g2.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_1_g2.png) |  Black_Footed_Albatross_0001_796111
+![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_2_g2.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_3_g2.png) |  Black_Footed_Albatross_0001_796111
 
 **Validation**
 - To generate images for all captions in the validation dataset, change B_VALIDATION to True in the eval_*.yml. and then run `python main.py --cfg cfg/eval_bird.yml --gpu 1`
