@@ -59,8 +59,7 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 caption example
 :-------------------------:
 the medium sized bird has a dark grey color, a black downward curved beak, and long wings.
-![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_g0.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_g1.png) 
-![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_g2.png)
+![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_g0.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_g1.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_g2.png)
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_a0.png)
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_a1.png)
 
