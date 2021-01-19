@@ -60,7 +60,14 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_2_g2.png)
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_3_g2.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_4_g2.png) 
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_5_g2.png)
+![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_6_g2.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_7_g2.png) 
+![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_8_g2.png)
 
+ No              |  caption example
+:-------------------------:|:-------------------------:
+1  |  the medium sized bird has a dark grey color, a black downward curved beak, and long wings.
+2  |  the bird is dark grey brown with a thick curved bill and a flat shaped tail.
+3  |  bird has brown body feathers, white breast feathers and black beak
 
 **Validation**
 - To generate images for all captions in the validation dataset, change B_VALIDATION to True in the eval_*.yml. and then run `python main.py --cfg cfg/eval_bird.yml --gpu 1`
