@@ -59,9 +59,7 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
  bird example              |  caption
 :-------------------------:|:-------------------------:
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_g2.png)  |  Black_Footed_Albatross_0001_796111
-:-------------------------:|:-------------------------:
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_1_g2.png)  |  Black_Footed_Albatross_0001_796111
-:-------------------------:|:-------------------------:
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_2_g2.png)  |  Black_Footed_Albatross_0001_796111
 
 **Validation**
