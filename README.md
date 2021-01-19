@@ -54,6 +54,13 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 - Change the `eval_*.yml` files to generate images from other pre-trained models. 
 - Input your own sentence in "./data/birds/example_captions.txt" if you wannt to generate images from customized sentences. 
 
+
+Examples for birds 
+![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_g2.png)
+![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_1_g2.png)
+![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_2_g2.png)
+![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_3_g2.png)
+
 **Validation**
 - To generate images for all captions in the validation dataset, change B_VALIDATION to True in the eval_*.yml. and then run `python main.py --cfg cfg/eval_bird.yml --gpu 1`
 - We compute inception score for models trained on birds using [StackGAN-inception-model](https://github.com/hanzhanggit/StackGAN-inception-model).
