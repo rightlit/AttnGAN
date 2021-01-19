@@ -63,6 +63,11 @@ the medium sized bird has a dark grey color, a black downward curved beak, and l
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_a0.png)
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_a1.png)
 
+the bird is dark grey brown with a thick curved bill and a flat shaped tail.
+![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_1_g0.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_1_g1.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_1_g2.png)
+![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_1_a0.png)
+![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_1_a1.png)
+
 No | caption example
 :-------------------------:|:-------------------------:
 2  |  the bird is dark grey brown with a thick curved bill and a flat shaped tail.
