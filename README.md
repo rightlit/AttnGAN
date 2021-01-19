@@ -68,6 +68,13 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 1  |  the medium sized bird has a dark grey color, a black downward curved beak, and long wings.
 2  |  the bird is dark grey brown with a thick curved bill and a flat shaped tail.
 3  |  bird has brown body feathers, white breast feathers and black beak
+4  |  this bird has a dark brown overall body color, with a small white patch around the base of the bill.
+5  |  the bird has very long and large brown wings, as well as a black body and a long black beak.
+6  |  it is a type of albatross with black wings, tail, back and beak, and has a white ring at the base of its beak.
+7  |  this bird has brown plumage and a white ring at the base of its long, curved brown beak.
+8  |  the entire body is dark brown, as is the bill, with a white band encircling where the bill meets the head.
+9  |  this bird is gray in color, with a large curved beak.
+
 
 **Validation**
 - To generate images for all captions in the validation dataset, change B_VALIDATION to True in the eval_*.yml. and then run `python main.py --cfg cfg/eval_bird.yml --gpu 1`
