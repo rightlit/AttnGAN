@@ -93,6 +93,42 @@ the petals of the flower are pink in color and have a yellow center.
 ![](models/netG_epoch_600/image_06734/0_s_0_g0.png) ![](models/netG_epoch_600/image_06734/0_s_0_g1.png) ![](models/netG_epoch_600/image_06734/0_s_0_g2.png)
 ![](models/netG_epoch_600/image_06734/0_s_0_a0.png)
 ![](models/netG_epoch_600/image_06734/0_s_0_a1.png)
+this flower is pink and white in color, with petals that are multi colored.
+![](models/netG_epoch_600/image_06734/0_s_1_g0.png) ![](models/netG_epoch_600/image_06734/0_s_1_g1.png) ![](models/netG_epoch_600/image_06734/0_s_1_g2.png)
+![](models/netG_epoch_600/image_06734/0_s_1_a0.png)
+![](models/netG_epoch_600/image_06734/0_s_1_a1.png)
+the geographical shapes of the bright purple petals set off the orange stamen and filament and the cross shaped stigma is beautiful.
+![](models/netG_epoch_600/image_06734/0_s_2_g0.png) ![](models/netG_epoch_600/image_06734/0_s_2_g1.png) ![](models/netG_epoch_600/image_06734/0_s_2_g2.png)
+![](models/netG_epoch_600/image_06734/0_s_2_a0.png)
+![](models/netG_epoch_600/image_06734/0_s_2_a1.png)
+the purple petals have shades of white with white anther and filament
+![](models/netG_epoch_600/image_06734/0_s_3_g0.png) ![](models/netG_epoch_600/image_06734/0_s_3_g1.png) ![](models/netG_epoch_600/image_06734/0_s_3_g2.png)
+![](models/netG_epoch_600/image_06734/0_s_3_a0.png)
+![](models/netG_epoch_600/image_06734/0_s_3_a1.png)
+this flower has large pink petals and a white stigma in the center
+![](models/netG_epoch_600/image_06734/0_s_4_g0.png) ![](models/netG_epoch_600/image_06734/0_s_4_g1.png) ![](models/netG_epoch_600/image_06734/0_s_4_g2.png)
+![](models/netG_epoch_600/image_06734/0_s_4_a0.png)
+![](models/netG_epoch_600/image_06734/0_s_4_a1.png)
+this flower has petals that are pink and has a yellow stamen
+![](models/netG_epoch_600/image_06734/0_s_5_g0.png) ![](models/netG_epoch_600/image_06734/0_s_5_g1.png) ![](models/netG_epoch_600/image_06734/0_s_5_g2.png)
+![](models/netG_epoch_600/image_06734/0_s_5_a0.png)
+![](models/netG_epoch_600/image_06734/0_s_5_a1.png)
+a flower with short and wide petals that is light purple.
+![](models/netG_epoch_600/image_06734/0_s_6_g0.png) ![](models/netG_epoch_600/image_06734/0_s_6_g1.png) ![](models/netG_epoch_600/image_06734/0_s_6_g2.png)
+![](models/netG_epoch_600/image_06734/0_s_6_a0.png)
+![](models/netG_epoch_600/image_06734/0_s_6_a1.png)
+this flower has small pink petals with a yellow center.
+![](models/netG_epoch_600/image_06734/0_s_7_g0.png) ![](models/netG_epoch_600/image_06734/0_s_7_g1.png) ![](models/netG_epoch_600/image_06734/0_s_7_g2.png)
+![](models/netG_epoch_600/image_06734/0_s_7_a0.png)
+![](models/netG_epoch_600/image_06734/0_s_7_a1.png)
+this flower has large rounded pink petals with curved edges and purple veins.
+![](models/netG_epoch_600/image_06734/0_s_8_g0.png) ![](models/netG_epoch_600/image_06734/0_s_8_g1.png) ![](models/netG_epoch_600/image_06734/0_s_8_g2.png)
+![](models/netG_epoch_600/image_06734/0_s_8_a0.png)
+![](models/netG_epoch_600/image_06734/0_s_8_a1.png)
+this flower has purple petals as well as a white stamen.
+![](models/netG_epoch_600/image_06734/0_s_9_g0.png) ![](models/netG_epoch_600/image_06734/0_s_9_g1.png) ![](models/netG_epoch_600/image_06734/0_s_9_g2.png)
+![](models/netG_epoch_600/image_06734/0_s_9_a0.png)
+![](models/netG_epoch_600/image_06734/0_s_9_a1.png)
 
 
 **Validation**
