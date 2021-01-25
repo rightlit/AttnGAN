@@ -16,7 +16,8 @@ Pytorch 1.7.0+cu101
 
 1. Download our preprocessed metadata for [birds](https://drive.google.com/open?id=1O_LtUP9sch09QH3s_EBAgLEctBQ5JBSJ) [coco](https://drive.google.com/open?id=1rSnbIGNDGZeHlsUlLdahj0RJ9oo6lgH9) and save them to `data/`
 2. Download the [birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) image data. Extract them to `data/birds/`
-3. Download [coco](http://cocodataset.org/#download) dataset and extract the images to `data/coco/`
+3. Download the [flowers](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/) image data. Extract them to `data/flowers/`
+4. Download [coco](http://cocodataset.org/#download) dataset and extract the images to `data/coco/`
 
 
 **Training**
