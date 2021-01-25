@@ -22,11 +22,11 @@ Pytorch 1.7.0+cu101
 **Training**
 - Pre-train DAMSM models:
   - For bird dataset: `python pretrain_DAMSM.py --cfg cfg/DAMSM/bird.yml --gpu 0`
-  - For coco dataset: `python pretrain_DAMSM.py --cfg cfg/DAMSM/coco.yml --gpu 1`
+  - For flower dataset: `python pretrain_DAMSM.py --cfg cfg/DAMSM/flower.yml --gpu 0`
  
 - Train AttnGAN models:
-  - For bird dataset: `python main.py --cfg cfg/bird_attn2.yml --gpu 2`
-  - For coco dataset: `python main.py --cfg cfg/coco_attn2.yml --gpu 3`
+  - For bird dataset: `python main.py --cfg cfg/bird_attn2.yml --gpu 0`
+  - For flower dataset: `python main.py --cfg cfg/flower_attn2.yml --gpu 0`
 
 - `*.yml` files are example configuration files for training/evaluation our models.
 
@@ -42,6 +42,7 @@ Pytorch 1.7.0+cu101
 
 **Sampling**
 - Run `python main.py --cfg cfg/eval_bird.yml --gpu 1` to generate examples from captions in files listed in "./data/birds/example_filenames.txt". Results are saved to `DAMSMencoders/`. 
+- Run `python main.py --cfg cfg/eval_flower.yml --gpu 1` to generate examples from captions in files listed in "./data/flowers/example_filenames.txt". Results are saved to `DAMSMencoders/`. 
 - Change the `eval_*.yml` files to generate images from other pre-trained models. 
 - Input your own sentence in "./data/birds/example_captions.txt" if you wannt to generate images from customized sentences. 
 
