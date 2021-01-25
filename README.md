@@ -68,6 +68,14 @@ this bird is gray in color, with a large curved beak. | a large gray bird with a
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_8_g0.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_8_g1.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_8_g2.png) | ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_9_g0.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_9_g1.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_9_g2.png)
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_8_a0.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_8_a1.png) | ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_9_a0.png)![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_9_a1.png)
 
+ flower example              |  flower example
+:-------------------------:|:-------------------------:
+the petals of the flower are pink in color and have a yellow center. | this flower is pink and white in color, with petals that are multi colored.
+![](models/netG_epoch_600/image_06734/0_s_0_g0.png) ![](models/netG_epoch_600/image_06734/0_s_0_g1.png) ![](models/netG_epoch_600/image_06734/0_s_0_g2.png) | ![](models/netG_epoch_600/image_06734/0_s_1_g0.png) ![](models/netG_epoch_600/image_06734/0_s_1_g1.png) ![](models/netG_epoch_600/image_06734/0_s_1_g2.png)
+![](models/netG_epoch_600/image_06734/0_s_0_a0.png) ![](models/netG_epoch_600/image_06734/0_s_0_a1.png) | ![](models/netG_epoch_600/image_06734/0_s_1_a0.png)![](models/netG_epoch_600/image_06734/0_s_1_a1.png)
+
+
+
 **Validation**
 - To generate images for all captions in the validation dataset, change B_VALIDATION to True in the eval_*.yml. and then run `python main.py --cfg cfg/eval_bird.yml --gpu 1`
 - We compute inception score for models trained on birds using [StackGAN-inception-model](https://github.com/hanzhanggit/StackGAN-inception-model).
