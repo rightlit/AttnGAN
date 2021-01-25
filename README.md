@@ -55,7 +55,8 @@ Pytorch 1.7.0+cu101
 the medium sized bird has a dark grey color, a black downward curved beak, and long wings. | the bird is dark grey brown with a thick curved bill and a flat shaped tail.
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_g0.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_g1.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_g2.png) | ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_1_g0.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_1_g1.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_1_g2.png)
 ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_a0.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_0_a1.png) | ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_1_a0.png)![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_1_a1.png)
-
+![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_2_g0.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_2_g1.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_2_g2.png) | ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_3_g0.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_3_g1.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_3_g2.png)
+![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_2_a0.png) ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_2_a1.png) | ![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_3_a0.png)![](models/bird_AttnGAN2/Black_Footed_Albatross_0001_796111/0_s_3_a1.png)
 
 
 **Validation**
