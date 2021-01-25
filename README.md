@@ -73,6 +73,9 @@ this bird is gray in color, with a large curved beak. | a large gray bird with a
 the petals of the flower are pink in color and have a yellow center. | this flower is pink and white in color, with petals that are multi colored.
 ![](models/netG_epoch_600/image_06734/0_s_0_g0.png) ![](models/netG_epoch_600/image_06734/0_s_0_g1.png) ![](models/netG_epoch_600/image_06734/0_s_0_g2.png) | ![](models/netG_epoch_600/image_06734/0_s_1_g0.png) ![](models/netG_epoch_600/image_06734/0_s_1_g1.png) ![](models/netG_epoch_600/image_06734/0_s_1_g2.png)
 ![](models/netG_epoch_600/image_06734/0_s_0_a0.png) ![](models/netG_epoch_600/image_06734/0_s_0_a1.png) | ![](models/netG_epoch_600/image_06734/0_s_1_a0.png)![](models/netG_epoch_600/image_06734/0_s_1_a1.png)
+the geographical shapes of the bright purple petals set off the orange stamen and filament and the cross shaped stigma is beautiful. | the purple petals have shades of white with white anther and filament
+![](models/netG_epoch_600/image_06734/0_s_2_g0.png) ![](models/netG_epoch_600/image_06734/0_s_2_g1.png) ![](models/netG_epoch_600/image_06734/0_s_2_g2.png) | ![](models/netG_epoch_600/image_06734/0_s_3_g0.png) ![](models/netG_epoch_600/image_06734/0_s_3_g1.png) ![](models/netG_epoch_600/image_06734/0_s_3_g2.png)
+![](models/netG_epoch_600/image_06734/0_s_2_a0.png) ![](models/netG_epoch_600/image_06734/0_s_2_a1.png) | ![](models/netG_epoch_600/image_06734/0_s_3_a0.png)![](models/netG_epoch_600/image_06734/0_s_3_a1.png)
 
 
 
