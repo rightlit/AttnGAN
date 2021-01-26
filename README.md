@@ -2,6 +2,7 @@
 
 This is AttnGAN revised version for Google Colab.
 Refer to [AttnGAN github](https://github.com/taoxugit/AttnGAN) for original source version.
+
 Refre to [issues](https://github.com/rightlit/AttnGAN-rev/issues) while executing in runtimme. 
 
 ### Dependencies
