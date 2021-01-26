@@ -1,9 +1,9 @@
 # AttnGAN-revision for Colab
 
 This is AttnGAN revised version for Google Colab.
-Refer to [AttnGAN github](https://github.com/taoxugit/AttnGAN) for original source version.
+Refer to [https://github.com/taoxugit/AttnGAN](https://github.com/taoxugit/AttnGAN) for original source version.
 
-Refre to [issues](https://github.com/rightlit/AttnGAN-rev/issues) while executing in runtimme. 
+Refre to [troubleshooting](https://github.com/rightlit/AttnGAN-rev/issues) while executing in origina source code. 
 
 ### Dependencies
 python 3.6
