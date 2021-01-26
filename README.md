@@ -1,6 +1,7 @@
 # AttnGAN-revision for Colab
 
 This is AttnGAN revised version for Google Colab.
+
 Refer to [https://github.com/taoxugit/AttnGAN](https://github.com/taoxugit/AttnGAN) for original source version.
 
 Refre to [troubleshooting](https://github.com/rightlit/AttnGAN-rev/issues) while executing in origina source code. 
