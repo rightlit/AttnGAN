@@ -39,7 +39,7 @@ Pytorch 1.7.0+cu101
 - [AttnGAN for coco](https://drive.google.com/open?id=1i9Xkg9nU74RAvkcqKE-rJYhjvzKAMnCi). Download and save it to `models/`
 
 - [AttnDCGAN for bird](https://drive.google.com/open?id=19TG0JUoXurxsmZLaJ82Yo6O0UJ6aDBpg). Download and save it to `models/`
-  - This is an variant of AttnGAN which applies the propsoed attention mechanisms to DCGAN framework. 
+  - This is an variant of AttnGAN which applies the proposed attention mechanisms to DCGAN framework. 
 
 **Sampling**
 - Run `python main.py --cfg cfg/eval_bird.yml --gpu 1` to generate examples from captions in files listed in "./data/birds/example_filenames.txt". Results are saved to `DAMSMencoders/`. 
