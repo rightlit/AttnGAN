@@ -1,3 +1,7 @@
 interpolate_captions
 example_captions
 text/COCO_val2014_000000453001
+text/COCO_val2014_000000453009
+text/COCO_val2014_000000453013
+text/COCO_val2014_000000453020
+text/COCO_val2014_000000453026
