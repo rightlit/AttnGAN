@@ -56,9 +56,9 @@ this flower has large rounded pink petals with curved edges and purple veins. | 
 coco example              |  coco example
 :-------------------------:|:-------------------------:
 A woman watching another woman walk with a suitcase on wheels.  | a girl watching another girl trip while pulling her suitcase
-![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_0_g0.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_0_g1.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_1_g2.png) | ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_1_g0.png) ![](models/netG_epoch_600/image_06734/0_s_1_g1.png) ![](models/netG_epoch_600/image_06734/0_s_1_g2.png)
+![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_0_g0.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_0_g1.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_0_g2.png) | ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_1_g0.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_1_g1.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_1_g2.png)
 A woman carrying a suit case and losing her balance.  | A girl is having a hard time pulling a suit case.
-![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_2_g0.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_2_g1.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_2_g2.png) | ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_3_g0.png) ![](models/netG_epoch_600/image_06734/0_s_3_g1.png) ![](models/netG_epoch_600/image_06734/0_s_3_g2.png)
+![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_2_g0.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_2_g1.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_2_g2.png) | ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_3_g0.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_3_g1.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000453001/0_s_3_g2.png)
 
 
 
