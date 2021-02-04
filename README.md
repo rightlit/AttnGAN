@@ -50,7 +50,7 @@ this flower has large pink petals and a white stigma in the center | this flower
 a flower with short and wide petals that is light purple. | this flower has small pink petals with a yellow center.
 ![](models/netG_epoch_600/image_06734/0_s_6_g0.png) ![](models/netG_epoch_600/image_06734/0_s_6_g1.png) ![](models/netG_epoch_600/image_06734/0_s_6_g2.png) | ![](models/netG_epoch_600/image_06734/0_s_7_g0.png) ![](models/netG_epoch_600/image_06734/0_s_7_g1.png) ![](models/netG_epoch_600/image_06734/0_s_7_g2.png)
 this flower has large rounded pink petals with curved edges and purple veins. | this flower has purple petals as well as a white stamen.
-![](models/netG_epoch_600/image_06734/0_s_8_g0.png) ![](models/netG_epoch_600/image_06734/0_s_86_g1.png) ![](models/netG_epoch_600/image_06734/0_s_8_g2.png) | ![](models/netG_epoch_600/image_06734/0_s_9_g0.png) ![](models/netG_epoch_600/image_06734/0_s_9_g1.png) ![](models/netG_epoch_600/image_06734/0_s_9_g2.png)
+![](models/netG_epoch_600/image_06734/0_s_8_g0.png) ![](models/netG_epoch_600/image_06734/0_s_8_g1.png) ![](models/netG_epoch_600/image_06734/0_s_8_g2.png) | ![](models/netG_epoch_600/image_06734/0_s_9_g0.png) ![](models/netG_epoch_600/image_06734/0_s_9_g1.png) ![](models/netG_epoch_600/image_06734/0_s_9_g2.png)
 
 
 coco example              |  coco example
