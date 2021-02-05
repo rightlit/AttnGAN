@@ -59,8 +59,10 @@ This wire metal rack holds several pairs of shoes and sandals  | A dog sleeping 
 ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_0_g0.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_0_g1.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_0_g2.png) | ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_1_g0.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_1_g1.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_1_g2.png)
 Various slides and other footwear rest in a metal basket outdoors.  | A small dog is curled up on top of the shoes
 ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_2_g0.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_2_g1.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_2_g2.png) | ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_3_g0.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_3_g1.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_3_g2.png)
-
-
+a shoe rack with some shoes and a dog sleeping on them  | A motorcycle parked in a parking space next to another motorcycle.
+![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_4_g0.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_2_g1.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_4_g2.png) | ![](./models/coco_AttnGAN2/COCO_val2014_000000000073/0_s_0_g0.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_0_g1.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000073/0_s_0_g2.png)
+An old motorcycle parked beside other motorcycles with a brown leather seat.  | Motorcycle parked in the parking lot of asphalt.
+![](./models/coco_AttnGAN2/COCO_val2014_000000000073/0_s_1_g0.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000073/0_s_1_g1.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000073/0_s_1_g2.png) | ![](./models/coco_AttnGAN2/COCO_val2014_000000000073/0_s_2_g0.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000042/0_s_2_g1.png) ![](./models/coco_AttnGAN2/COCO_val2014_000000000073/0_s_2_g2.png)
 
 **Reference**
 
