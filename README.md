@@ -1,4 +1,4 @@
-# AttnGAN-revision for Colab
+# AttnGAN-revision and demos
 
 This is AttnGAN revised version for Google Colab.
 
